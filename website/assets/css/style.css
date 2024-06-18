@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+.texto {
+    display: flex;
+}
+.imagen {
+    justify-content: right;
+}
